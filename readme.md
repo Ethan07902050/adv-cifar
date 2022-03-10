@@ -1,5 +1,5 @@
 # Gray-box Attack
-In this assignment, the momentum iterative fast gradient sign method is taken to generate adversarial examples of cifar-10 evaluation set.
+In this assignment, the momentum iterative fast gradient sign method is taken to generate adversarial examples on cifar-10 evaluation set.
 
 Usage:
 ```
